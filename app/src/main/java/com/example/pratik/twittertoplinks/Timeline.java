@@ -65,8 +65,8 @@ public class Timeline extends ListActivity {
 
     // download a Twitter user's timeline
     private class DownloadTwitterTask extends AsyncTask<String, Void, String> {
-        final static String CONSUMER_KEY = "6fNFeyvl7jo4PPh8sPM4ALGlr";
-        final static String CONSUMER_SECRET = "64M5RMIydiw0Nekr6pTsF5ZsPpO7ElHXFFmpFtvtWSr029p6Y0";
+        final static String CONSUMER_KEY = "";
+        final static String CONSUMER_SECRET = "";
         final static String TwitterTokenURL = "https://api.twitter.com/oauth2/token";
         final static String TwitterStreamURL = "https://api.twitter.com/1.1/statuses/user_timeline.json?screen_name=";
 
