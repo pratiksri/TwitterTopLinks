@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Twitter TopLinks</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_network5">Twitter Status</string>
+    <string name="str_getstatus">Get status</string>
+    <string name="str_statuses">Statuses:</string>
+    <string name="user_tweets">Show Tweets</string>
+    <string name="analysis">Tweets Analysis</string>
+    <string name="search">Search for a tweet</string>
+
+</resources>
