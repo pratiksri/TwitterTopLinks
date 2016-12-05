@@ -23,8 +23,8 @@ public class Login extends AppCompatActivity {
 
     private TwitterLoginButton loginButton;
 
-    private static final String TWITTER_KEY = "6fNFeyvl7jo4PPh8sPM4ALGlr";
-    private static final String TWITTER_SECRET = "64M5RMIydiw0Nekr6pTsF5ZsPpO7ElHXFFmpFtvtWSr029p6Y0";
+    private static final String TWITTER_KEY = "";
+    private static final String TWITTER_SECRET = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
