@@ -26,10 +26,10 @@
             android:value="2428663774665001515910423f146d4d68d52ddc" />
         <meta-data
             android:name="CONSUMER_KEY"
-            android:value="6fNFeyvl7jo4PPh8sPM4ALGlr" />
+            android:value="" />
         <meta-data
             android:name="CONSUMER_SECRET"
-            android:value="64M5RMIydiw0Nekr6pTsF5ZsPpO7ElHXFFmpFtvtWSr029p6Y0" />
+            android:value="" />
 
         <activity android:name=".Options" />
         <activity android:name=".Analyze"></activity>
