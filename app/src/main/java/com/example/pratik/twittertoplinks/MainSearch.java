@@ -37,8 +37,8 @@ public class MainSearch extends ListActivity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         activity = this;
-        Key = "6fNFeyvl7jo4PPh8sPM4ALGlr";
-        Secret = "64M5RMIydiw0Nekr6pTsF5ZsPpO7ElHXFFmpFtvtWSr029p6Y0";
+        Key = "";
+        Secret = "";
         Bundle b1 = getIntent().getExtras();
         String word = b1.getString("word",null);
         SearchTerm = word;
